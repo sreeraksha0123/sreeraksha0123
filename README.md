@@ -93,7 +93,7 @@ Class 12: 97.33% — Class 10: 98.56%
 </p>
 
 ### Core Concepts
-`Data Structures & Algorithms` • `OOP` • `DBMS` • `Operating Systems`
+`Data Structures & Algorithms` • `OOP` • `DBMS` • `Operating Systems` • `Computer Networks` • `linux`
 
 ---
 
