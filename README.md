@@ -11,6 +11,7 @@
 ![LeetCode](https://img.shields.io/badge/LeetCode-150%2F150-brightgreen?style=flat-square)
 ![GFG](https://img.shields.io/badge/GfG-160%2F160-blue?style=flat-square)
 ![GPA](https://img.shields.io/badge/GPA-9.56%2F10-success?style=flat-square)
+![LeetCode Rating](https://img.shields.io/badge/LeetCode_Contest_Rating-1969+_(Knight)-brightgreen?style=flat-square)
 
 ---
 
