@@ -1,130 +1,71 @@
-# Hi — I'm Sree Raksha S P 👋
+<h1 align="center">Hi, I'm Sree Raksha 👋</h1>
+<h3 align="center">Backend & Distributed Systems Engineer | Building systems that scale under pressure</h3>
 
-🎓 3rd-year Information Science & Engineering student at NMIT, Bangalore (Batch 2023–2027).
-💻 Passionate about Full-Stack Development, Data Science, and Cloud Computing — I love turning ideas into impactful, data-driven web applications.
-🌱 Currently building projects that blend analytics, sustainability, and community — all powered by clean code and scalable systems.
-
----
-
-## 🚀 Quick Stats
-![Java](https://img.shields.io/badge/Java-300%2B%20DSA%20Problems-orange?style=flat-square)
-![LeetCode](https://img.shields.io/badge/LeetCode-150%2F150-brightgreen?style=flat-square)
-![GFG](https://img.shields.io/badge/GfG-160%2F160-blue?style=flat-square)
-![GPA](https://img.shields.io/badge/GPA-9.56%2F10-success?style=flat-square)
-![LeetCode Rating](https://img.shields.io/badge/LeetCode_Contest_Rating-1969+_(Knight)-brightgreen?style=flat-square)
-
----
-
-## 📍 About Me
-- **Name:** Sree Raksha S P
-- **Course:** B.E. in Information Science & Engineering — Nitte Meenakshi Institute of Technology  
-- **Batch:** 2023 – 2027  
-- **Email:** sreeraksha0123@gmail.com
-
-**Connect with me:**
-<p>
-  <a href="https://leetcode.com/u/sreeraksha0123/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://codeforces.com/profile/sreeraksha0123"><img src="https://img.shields.io/badge/CodeForces-445f9d?style=for-the-badge&logo=CodeForces&logoColor=white" /></a>
-  <a href="https://www.codechef.com/users/sreeraksha0123"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/sreeraksha0123/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/sreeraksha0123"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:raksha.sp.2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://leetcode.com/YOUR-LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </p>
 
 ---
 
-## 💻 What I Share Here
-- **DSA Practice:** Problem write-ups with solutions, approaches, and complexity analysis
-- **Web Development:** React, Next.js, Node.js projects  
-- **ML Experiments:** Pandas, scikit-learn notebooks
-- **Learning Resources:** Notes, tips, and tools I build while learning
+### ⚡ About Me
+- 🎓 B.E. Information Science & Engineering @ NMIT Bangalore (CGPA 9.55)
+- 🛠️ I build **high-throughput backend systems**: rate limiters, entitlement engines, event-driven pipelines
+- 🐛 Currently sharpening: distributed systems, Kafka internals, Kubernetes operators
+- 🏆 Top 10, Smart India Hackathon 2025 · Reliance Foundation Scholar · Harvard Aspire Leaders alum
+- 📫 Reach me: raksha.sp.2004@gmail.com
 
 ---
 
-## 🎓 Education
-**Nitte Meenakshi Institute of Technology** — Bangalore, India  
-Bachelor of Engineering, Information Science & Engineering — GPA: 9.56 / 10  
-*2023 – 2027*
+### 🧰 Tech Stack
 
-**Pre-University & Secondary Education** — Karnataka, India  
-Class 12: 97.33% — Class 10: 98.56%  
-*2020 – 2022*
+**Languages**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
----
+**Backend & APIs**
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=google&logoColor=white)
 
-## 🛠 Technical Skills
+**Data & Messaging**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 
-### 💬 Programming Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
-
-### 🌐 Web Development
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-</p>
-
-### 🧩 Databases & Cloud
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-</p>
-
-### 🧠 Machine Learning & Data Science
-<p align="left">
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
-
-### ⚙️ Tools & Platforms
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
-</p>
-
-### 📚 Core Concepts
-`Data Structures & Algorithms` • `OOP` • `DBMS` • `Operating Systems` • `Computer Networks` • `API Design` • `Linux` • `Cloud Fundamentals`
-
+**Cloud & DevOps**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
 ---
 
-## 🏆 Experience & Achievements
-- **Reliance Foundation Scholar '24** — Selected among top 200 students in India; currently mentoring new scholars  
-- **Infosys Springboard Pragati** — 6-month industry-aligned program on cloud, AI, and professional readiness  
-- **AWS Skill Builder Program Cohort-1 (2025)** — Hands-on with cloud fundamentals, IAM, and serverless apps  
-- **Infosys Springboard Ideathon 2024** — Team NEXUS AI, designed practical AI-driven solutions  
-- **Aspire Leaders Program (2024)** — Leadership, strategy, and innovation training  
-- **Member** — Enigma E-Cell NMIT; Student Member — ISTE NMIT
+### 🚀 Featured Builds
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**SentinelCore**](https://github.com/sreeraksha0123/sentinelcore) | Entitlement engine validating 5K+ req/s, Kafka CQRS + outbox pattern | Java · Spring Boot · Kafka · Redis |
+| [**Aegis**](https://github.com/sreeraksha0123/aegis) | Distributed rate limiter, 12K+ req/s at <2ms p99 via Redis Lua scripts | Go · Redis · gRPC · k6 |
+| [**Helios**](https://github.com/sreeraksha0123/helios) | Self-healing K8s observability stack with chaos engineering | Kubernetes · Prometheus · Grafana |
 
 ---
 
-## 📫 How to Reach Me
-- **GitHub:** Open an issue or discussion on any repo for collaborations
-- **Email:** sreeraksha0123@gmail.com for detailed conversations
-- **Professional:** [LinkedIn](https://www.linkedin.com/in/sreeraksha0123/)
+### 📊 GitHub Stats
 
----
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sreeraksha0123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreeraksha0123&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sreeraksha0123&theme=tokyonight&hide_border=true"/>
+</p>
 
-Thanks for visiting — I'm learning, building, and sharing. Let's connect and build something meaningful. 🚀
-
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sreeraksha0123&theme=tokyo-night&hide_border=true"/>
+</p>
