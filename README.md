@@ -13,8 +13,8 @@
 ### ⚡ About Me
 - 🎓 B.E. Information Science & Engineering @ NMIT Bangalore (CGPA 9.55/10)
 - 🛠️ I build **high-throughput backend systems** — rate limiters, entitlement engines, event-driven pipelines, and lately, multi-agent AI workflows
-- 🎥 Starting a YouTube channel in 2026 — building random project ideas from scratch, in public, no scripts
-- 🏆 Top 10, Smart India Hackathon 2025 · Reliance Foundation Scholar · Harvard Aspire Leaders alum
+- 🎥 building random project ideas from scratch, in public, no scripts
+-  · Infosys Prathi participant · Reliance Foundation Scholar · Harvard Aspire Leaders alum
 - 📫 Reach me: raksha.sp.2004@gmail.com
 
 ---
