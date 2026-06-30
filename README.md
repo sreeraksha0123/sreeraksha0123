@@ -69,11 +69,14 @@
 
 ---
 
-### 🎥 Building in Public
+### 🎬 Building in Public
 
-Starting a YouTube series this year — picking a random project idea, building it from zero, and shipping it on camera. No polish, no "10x engineer" script, just the actual build process: bugs, dead ends, and all.
+Started building random project ideas from scratch on Instagram & YouTube — the actual process, not polished tutorials. Bugs, late-night debugging, and ships included.
 
-> 📺 Channel link coming soon — watch this space.
+<p align="center">
+  <a href="https://instagram.com/sreeraksha0123"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://youtube.com/@sreeraksha0123"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+</p>
 
 ---
 
